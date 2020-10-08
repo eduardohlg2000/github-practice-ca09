@@ -85,3 +85,4 @@
 |53|Satyam Gorry|37|satyamG7|<https://github.com/SatyamG7/website7.gite>|<https://satyamgorry-portfolio.netlify.app>|2020-10-07|
 |54|Bartek Mozdzen|11|bmozdzen|<https://github.com/bartek-mozdzen/my_website>|<https://bartek-mozdzen.netlify.app>|2020-10-07|
 |54|Sena Salman|29|senasalman|<https://github.com/senasalman/senasalman>|<https://senasalman.netlify.app>|2020-10-08|
+|55|Eduardo Henrique   | 26     | eduardohlg2000 |<https://github.com/eduardohlg2000/my_website>   |<https://eduardohlg.netlify.app/>        |2020-10-08
